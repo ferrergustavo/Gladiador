@@ -1,0 +1,5 @@
+slice: 230 X, 235 Y 
+
+pivot: 0.5 X , 0.5 Y (Center)
+
+pixels Per Unit: 50

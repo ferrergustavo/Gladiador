@@ -1,0 +1,5 @@
+slice: 260 X, 270 Y 
+
+pivot: 0.5 X , 0.5 Y (Center)
+
+pixels Per Unit: 50

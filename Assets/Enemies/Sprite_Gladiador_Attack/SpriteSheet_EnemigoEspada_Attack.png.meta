@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: a9f4c112785a6d046a545a8815474f75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3495790273121032739
+    second: SpriteSheet_EnemigoEspada_Attack_0
+  - first:
+      213: -6816447420242745482
+    second: SpriteSheet_EnemigoEspada_Attack_1
+  - first:
+      213: 8263722822690036326
+    second: SpriteSheet_EnemigoEspada_Attack_2
+  - first:
+      213: -7039602474031153615
+    second: SpriteSheet_EnemigoEspada_Attack_3
+  - first:
+      213: 5351442402690214155
+    second: SpriteSheet_EnemigoEspada_Attack_5
+  - first:
+      213: -1621057023411474912
+    second: SpriteSheet_EnemigoEspada_Attack_6
+  - first:
+      213: 4085434339029198720
+    second: SpriteSheet_EnemigoEspada_Attack_7
+  - first:
+      213: -2652773779713137790
+    second: SpriteSheet_EnemigoEspada_Attack_8
+  - first:
+      213: 8423879197394768307
+    second: SpriteSheet_EnemigoEspada_Attack_10
+  - first:
+      213: -5742972137853459532
+    second: SpriteSheet_EnemigoEspada_Attack_11
+  - first:
+      213: -5345010915415446108
+    second: SpriteSheet_EnemigoEspada_Attack_12
+  - first:
+      213: -423579943643141526
+    second: SpriteSheet_EnemigoEspada_Attack_13
+  - first:
+      213: -5869976911954955982
+    second: SpriteSheet_EnemigoEspada_Attack_4
+  - first:
+      213: 8404356658126611397
+    second: SpriteSheet_EnemigoEspada_Attack_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 569
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e8eaced47ffc540b64efefb77faecf
+      internalID: -3495790273121032739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 569
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cf2dac543efeb409dd340c3b55d2b6
+      internalID: -6816447420242745482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 569
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75933a9bdcb57ed48a5710646717f33a
+      internalID: 8263722822690036326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 569
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba1bd01dc96ee64cacedd9a7ca5c90d
+      internalID: -7039602474031153615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d435f204a1833442a463befe458828a
+      internalID: -5869976911954955982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 289
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e437a48307bd94a8cd184c68c5780d
+      internalID: 5351442402690214155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 289
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ab258ea1b642540806618c64e2586c
+      internalID: -1621057023411474912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 289
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d224055d113802449bd99e5167f7b14
+      internalID: 4085434339029198720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa426a8965e252c4e981a9a4bc5c632f
+      internalID: -2652773779713137790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 9
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f93f1c3de66c3c46af6c6fc46ae7648
+      internalID: 8404356658126611397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 9
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b259aa6884d7ac044b82893bae2510ee
+      internalID: 8423879197394768307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_EnemigoEspada_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 9
+        width: 250
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31484902800f7246b60dd5866185332
+      internalID: -5742972137853459532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

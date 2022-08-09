@@ -1,0 +1,5 @@
+slice: 170 X, 235 Y 
+
+pivot: 0.4283559 X , 0.06234469 Y
+
+pixels Per Unit: 125

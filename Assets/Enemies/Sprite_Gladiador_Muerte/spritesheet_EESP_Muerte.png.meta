@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 28d538dc99ddad146a90d9662ef6a749
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5759430315186316387
+    second: spritesheet_EESP_Muerte_0
+  - first:
+      213: 3394378073237005472
+    second: spritesheet_EESP_Muerte_1
+  - first:
+      213: -2388766071927467720
+    second: spritesheet_EESP_Muerte_2
+  - first:
+      213: -1087557562537851388
+    second: spritesheet_EESP_Muerte_3
+  - first:
+      213: 9203821516003756982
+    second: spritesheet_EESP_Muerte_4
+  - first:
+      213: -8402745486363843141
+    second: spritesheet_EESP_Muerte_5
+  - first:
+      213: -786435196891287897
+    second: spritesheet_EESP_Muerte_6
+  - first:
+      213: 6386096092906803553
+    second: spritesheet_EESP_Muerte_7
+  - first:
+      213: 5740051004357201214
+    second: spritesheet_EESP_Muerte_8
+  - first:
+      213: -2653479508302189503
+    second: spritesheet_EESP_Muerte_9
+  - first:
+      213: 4746105136332077678
+    second: spritesheet_EESP_Muerte_10
+  - first:
+      213: -6285936905039887703
+    second: spritesheet_EESP_Muerte_11
+  - first:
+      213: 4721783550361443562
+    second: spritesheet_EESP_Muerte_12
+  - first:
+      213: 432735609960554120
+    second: spritesheet_EESP_Muerte_13
+  - first:
+      213: -3404594992742502771
+    second: spritesheet_EESP_Muerte_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187ed22c31f79a649952ae10957bca39
+      internalID: 5759430315186316387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 612
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a660cfcb308c04982c75f06d4ca0b0
+      internalID: 3394378073237005472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 612
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd549dbd34c1b44982c79fcc8139915
+      internalID: -2388766071927467720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_3
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 612
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304b5dddc7d4d164b9edd8989c0500ee
+      internalID: -1087557562537851388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_4
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 612
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aa1c90de8e4b342b7efafb73a01134
+      internalID: 9203821516003756982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b14af1f53a25646b2e965d5f5506c3
+      internalID: -8402745486363843141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 312
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4252e7124cf6c55458ce691fd40ccdef
+      internalID: -786435196891287897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 312
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd5cabb1b40958468e7b9e706181dbf
+      internalID: 6386096092906803553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 312
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224e15a223acbab45bed25b0b306174d
+      internalID: 5740051004357201214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_9
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 312
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe9679b57f085d419c78e673ca3ec86
+      internalID: -2653479508302189503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89afc56ed65e3b47a6c0e9b8cb8a64f
+      internalID: 4746105136332077678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 12
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242806fe0010c0c4b903067988bb16db
+      internalID: -6285936905039887703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 12
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe5778046814a24c93407ce68dfedcc
+      internalID: 4721783550361443562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_13
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 12
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb7fb05145d664787bf21000df0b3d
+      internalID: 432735609960554120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_EESP_Muerte_14
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 12
+        width: 255
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc90872a3ec8fcf4faa730107b1a0ed1
+      internalID: -3404594992742502771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

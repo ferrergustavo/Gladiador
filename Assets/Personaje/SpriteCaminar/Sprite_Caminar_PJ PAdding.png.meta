@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: a053814ec896a8b4eb3eb72a036c2e82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6756905986689177661
+    second: Sprite_Caminar_PJ PAdding_0
+  - first:
+      213: -1578114515129668315
+    second: Sprite_Caminar_PJ PAdding_1
+  - first:
+      213: -4647297203641774530
+    second: Sprite_Caminar_PJ PAdding_2
+  - first:
+      213: -3577881277216073743
+    second: Sprite_Caminar_PJ PAdding_3
+  - first:
+      213: -6843113800366177944
+    second: Sprite_Caminar_PJ PAdding_4
+  - first:
+      213: -4920014309325970918
+    second: Sprite_Caminar_PJ PAdding_5
+  - first:
+      213: 3168901282973712447
+    second: Sprite_Caminar_PJ PAdding_6
+  - first:
+      213: -8501776481093377788
+    second: Sprite_Caminar_PJ PAdding_7
+  - first:
+      213: -3475800347777841315
+    second: Sprite_Caminar_PJ PAdding_8
+  - first:
+      213: -5700211829571918217
+    second: Sprite_Caminar_PJ PAdding_9
+  - first:
+      213: -8372278217166786497
+    second: Sprite_Caminar_PJ PAdding_10
+  - first:
+      213: 1616337303177865397
+    second: Sprite_Caminar_PJ PAdding_11
+  - first:
+      213: -7381519892943262776
+    second: Sprite_Caminar_PJ PAdding_12
+  - first:
+      213: 3135121731778255152
+    second: Sprite_Caminar_PJ PAdding_13
+  - first:
+      213: -9094173540619941091
+    second: Sprite_Caminar_PJ PAdding_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 180
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabbdeba05bc3242b6e84db64435564
+      internalID: 6756905986689177661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 483
+        width: 180
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355529ed3ed0b0b48befc38bda0219e7
+      internalID: -1578114515129668315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 483
+        width: 180
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7dfdf1b53358b4facf221bee87cad2
+      internalID: -4647297203641774530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 483
+        width: 180
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1aa0c858c7558449f5439d062eef8a
+      internalID: -3577881277216073743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 483
+        width: 180
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a114eb95b368842895d7a25a11c081
+      internalID: -6843113800366177944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 180
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24e50ddb7d79ef4989d4ed8f28f12da
+      internalID: -4920014309325970918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 243
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4dc53a4bdc1be4abd19761ded07c36
+      internalID: 3168901282973712447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 243
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8199b2f35b1fa4d9bb8e97860c3022
+      internalID: -8501776481093377788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 243
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0661b9e58ef5522448600989f6cf30ed
+      internalID: -3475800347777841315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 243
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b42c2ba5578647b2a46f8e16a5d84
+      internalID: -5700211829571918217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03d7fb2f14b4b43987627e3453f9cb
+      internalID: -8372278217166786497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8efc7953b3189e47ad0969b68e1ff0f
+      internalID: 1616337303177865397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae460401eb77724a8d81de63318f2e4
+      internalID: -7381519892943262776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3d60468ac476c40936db57e86a3acf
+      internalID: 3135121731778255152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Caminar_PJ PAdding_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761ae0de05fe60429ebd6a37b154857
+      internalID: -9094173540619941091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
